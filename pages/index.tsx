@@ -17,8 +17,9 @@ export default function Home() {
           content="View advanced dashboards on your product votes & comments and statistics of Product Hunt launches. Understand how successful launches come to be. Get an overview of the best products, explore upvotes, comments, topics and more."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta content="/Website Cover.png" property="og:image" />
-        <meta property="og:image:alt" content="Relatalk Prime" />
+        <meta property="og:url" content="https://hunted.space" />
+        <meta property="og:image" content="https://hunted.space/api/ogImg" />
+        <meta property="og:image:alt" content="Hunted Space" />
         <meta content="white" name="theme-color" />
         <meta
           content="A place to see dashboards, statistics & a calendar view of Product Hunt launches"
